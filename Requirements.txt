@@ -1,0 +1,2 @@
+Library Requirement:
+pandas, matplotlib, sklearn, nltk, re
