@@ -47,4 +47,4 @@ Usage `python LDA-Clustering.py`
 
 ## Requirements.txt
 
- library requirements.
+ Library requirements.
