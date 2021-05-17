@@ -45,6 +45,10 @@ We apply Logistic Regression, Naïve Bayes, and Support Vector Machine (SVM) to 
 
 Usage `python LDA-Clustering.py`
 
+## Dataset_EDA.py
+
+Dataset exploration analysis to help better understand the dataset.
+
 ## Requirements.txt
 
  Library requirements.
