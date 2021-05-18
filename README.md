@@ -49,6 +49,10 @@ Usage `python LDA-Clustering.py`
 
 Dataset exploration analysis to help better understand the dataset.
 
+## 521final-project.pdf
+
+Final Project Write-Up.
+
 ## Requirements.txt
 
  Library requirements.
